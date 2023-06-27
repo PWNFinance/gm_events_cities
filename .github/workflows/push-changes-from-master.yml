@@ -1,0 +1,37 @@
+name: Push from Master to Branches
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  push-folders:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Copy folders
+        run: |
+          cp -r .vuepress/components .vuepress/theme legal $GITHUB_WORKSPACE
+
+      - name: Get branch list
+        run: |
+          git fetch --prune --unshallow
+          git branch -r --no-abbrev --format='%(refname:short)' | sed 's/origin\///' > branch_list.txt
+
+      - name: Loop over branches
+        id: loop
+        run: |
+          for branch in $(cat branch_list.txt); do
+            if [ "$branch" != "master" ]; then
+              git checkout $branch
+              git clean -df
+              git checkout master -- .vuepress/components .vuepress/theme legal
+              git add .
+              git commit -m "Copy folders from master to $branch" --author="$GITHUB_ACTOR <$GITHUB_ACTOR@users.noreply.github.com>"
+              git push origin $branch
+            fi
+          done

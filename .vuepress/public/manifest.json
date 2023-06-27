@@ -1,0 +1,15 @@
+{
+  "name": "GM Events Prague",
+  "short_name": "GM Prague",
+  "icons": [
+    {
+      "src": "logo_gm_events.svg",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000"
+}
