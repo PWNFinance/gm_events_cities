@@ -65,8 +65,8 @@ time: '04:20'
 # Time when the event ends. Can be left empty.
 endTime:
 
-# The URL where to acquire the tickets. Can be left empty.
-tickets: 
+# The URL where to acquire the tickets.
+tickets: https://pwn.xyz/
 
 # If the entrance is free leave it empty. Please include the currency
 price: €0
