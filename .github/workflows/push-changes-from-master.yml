@@ -36,7 +36,7 @@ jobs:
               git clean -df
               git checkout main -- .vuepress/components .vuepress/theme
               git add .
-              git commit -m "Copy folders from main to $branch"
+              git diff --quiet --exit-code --cached || git commit -m "Copy folders from main to $branch"
               git push origin $branch
             fi
           done
