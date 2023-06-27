@@ -1,9 +1,9 @@
-name: Push from Master to Branches
+name: Push from Main to Branches
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   push-folders:
@@ -15,7 +15,7 @@ jobs:
 
       - name: Copy folders
         run: |
-          cp -r .vuepress/components .vuepress/theme legal $GITHUB_WORKSPACE
+          cp -r .vuepress/components .vuepress/theme $GITHUB_WORKSPACE
 
       - name: Get branch list
         run: |
@@ -26,12 +26,12 @@ jobs:
         id: loop
         run: |
           for branch in $(cat branch_list.txt); do
-            if [ "$branch" != "master" ]; then
+            if [ "$branch" != "main" ]; then
               git checkout $branch
               git clean -df
-              git checkout master -- .vuepress/components .vuepress/theme legal
+              git checkout main -- .vuepress/components .vuepress/theme
               git add .
-              git commit -m "Copy folders from master to $branch" --author="$GITHUB_ACTOR <$GITHUB_ACTOR@users.noreply.github.com>"
+              git commit -m "Copy folders from main to $branch" --author="$GITHUB_ACTOR <$GITHUB_ACTOR@users.noreply.github.com>"
               git push origin $branch
             fi
           done
