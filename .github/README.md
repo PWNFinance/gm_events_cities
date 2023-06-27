@@ -9,4 +9,4 @@ interested in fruitful and educational discussions to join us.
 For submitting new events please do either of these:
 1) create a PR 
 2) create an issue 
-3) submit a form: https://gmevents.typeform.com/city
+3) submit a form: https://gmevents.typeform.com/barcelona
