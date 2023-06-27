@@ -1,0 +1,25 @@
+{
+  "name": "GM Events Cities",
+  "version": "2.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:PWNFinance/gm_events_cities.git",
+  "author": "Josef Jelacic <josef@ethprague.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PWNFinance/gm_events_cities/issues"
+  },
+  "homepage": "https://gm.events",
+  "scripts": {
+    "@types/file-saver": "^2.0.5",
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "debounce": "^1.2.0",
+    "vuepress": "^1.9.9"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "ics": "^3.1.0"
+  }
+}
