@@ -28,19 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Example
+title: ETHDublin
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Example description
+description: ETH Ireland is hosting ETHDublin to engineer Ireland’s tech culture at Dogpatch Labs - Ireland's number 1 startup hub. As the first of its kind on the emerald isle, this hackathon brings an international pool of Web3 developers together with Ireland's domestic technical talent.
+
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Example
+name: ETHDublin
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -48,35 +49,37 @@ name: Example
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - Hello
-
+  - ETH Ireland is hosting ETHDublin to engineer Ireland’s tech culture at Dogpatch Labs - Ireland's number 1 startup hub. As the first of its kind on the emerald isle, this hackathon brings an international pool of Web3 developers together with Ireland's domestic technical talent.
+  - This is your sign to join us in Dublin. Mingle with like minded inventors, builders, and designers from all over the world. Solve problems together. Harness the power of Web3. Challenge yourself. Whether you're a seasoned Web3 expert or just getting started in the field, this is a fantastic opportunity to learn, network, and showcase your skillset. 
+  - We can't wait to see what you’ll achieve with us. Let’s push boundaries together. Most importantly though… let’s have a bit of craic! 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2008-10-31
+date: 2023-05-26
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2008-10-31
+endDate: 2023-05-28
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '09:00'
-time: '04:20'
+time: '09:00'
 # Time when the event ends. Can be left empty.
-endTime:
+endTime: '18:00'
 
-# The URL where to acquire the tickets.
-tickets: https://pwn.xyz/
+# The URL where to acquire the tickets. Can be left empty.
+tickets: https://www.ethdublin.io/
 
-# If the entrance is free leave it empty. Please include the currency
-price: €0
+# If the entrance is free, set zero (0) as the price, or leave it empty.
+# _Don't_ write the currency symbol (Euro symbol will be used).
+price: €30
 
 # The name of the venue where the event will be held. Can be left empty.
-venue:
+venue: Dogpatch Labs
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address:
+address: The CHQ Building, Custom House Quay, Dublin 1, D01 Y6H7 Ireland
 
 # The category of the event. Valid options:
 # - conference
@@ -86,7 +89,7 @@ address:
 # - workshop
 # - party
 # Use _only_ one, and don't capitalize.
-category: party
+category: hackathon
 
 
 #################
