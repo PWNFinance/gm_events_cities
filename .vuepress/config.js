@@ -1,29 +1,27 @@
 module.exports = {
   base: "/",
-  title: "Example",
-  heading: "Example",
-  dateSubheading: "Example subheading",
-  subHeading: "Hello",
-  calendarHeading: "October 2008",
-  submitEventLink: "https://gmevents.typeform.com/city",
+  title: "Istanbul GM Events",
+  heading: "GM Istanbul 2023",
+  dateSubheading: "13. - 19. November 2023",
+  subHeading:
+    "We're bringing the Ethereum community to Istanbul! This website allows anyone to add and update their side event happening around Devconnect Istanbul.",
+  calendarHeading: "November 2023",
+  submitEventLink: "https://gmevents.typeform.com/devconnect",
   startDate: {
-    day: 1,
-    month: 10,
-    year: 2008,
+    day: 13,
+    month: 11,
+    year: 2023,
   },
   endDate: {
-    day: 31,
-    month: 10,
-    year: 2008,
+    day: 19,
+    month: 11,
+    year: 2023,
   },
-  daysInFirstMonth: 31,
+  daysInFirstMonth: 30,
   startHour: 8,
   endHour: 24,
-  duarationInDays: 10,
+  duarationInDays: 7,
   dayNames: [
-    "Friday",
-    "Saturday",
-    "Sunday",
     "Monday",
     "Tuesday",
     "Wednesday",
@@ -33,7 +31,7 @@ module.exports = {
     "Sunday",
   ],
   layout: 0, // 0 - banner layout, 1 - venue layout
-  bannerPath: "logo_gm_events.svg", // only if banner layout
+  bannerPath: "devconnect.jpg", // only if banner layout
   venues: [
     {
       name: "Paralelni Polis",
@@ -65,6 +63,10 @@ module.exports = {
       {
         text: "Calendar",
         link: "/calendar/",
+      },
+      {
+        text: "Devconnect Istanbul",
+        link: "https://devconnect.org/",
       },
     ],
     logo: "logo_gm_events.svg",
