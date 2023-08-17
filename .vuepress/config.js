@@ -1,29 +1,27 @@
 module.exports = {
   base: "/",
-  title: "Example",
-  heading: "Example",
-  dateSubheading: "Example subheading",
-  subHeading: "Hello",
-  calendarHeading: "October 2008",
-  submitEventLink: "https://gmevents.typeform.com/city",
+  title: "Naples GM Events",
+  heading: "GM Naples 2023",
+  dateSubheading: "22. - 28. May 2023",
+  subHeading:
+    "We're bringing the Ethereum community in Italy to Naples! GM events website shows you all events happening around Spaghetteth in Naples and allows anyone to add and update their side event.",
+  calendarHeading: "May 2023",
+  sumbitEventLink: "https://gmevents.typeform.com/naples",
   startDate: {
-    day: 1,
-    month: 10,
-    year: 2008,
+    day: 22,
+    month: 5,
+    year: 2023,
   },
   endDate: {
-    day: 31,
-    month: 10,
-    year: 2008,
+    day: 28,
+    month: 5,
+    year: 2023,
   },
   daysInFirstMonth: 31,
   startHour: 8,
   endHour: 24,
-  duarationInDays: 10,
+  duarationInDays: 7,
   dayNames: [
-    "Friday",
-    "Saturday",
-    "Sunday",
     "Monday",
     "Tuesday",
     "Wednesday",
@@ -33,7 +31,7 @@ module.exports = {
     "Sunday",
   ],
   layout: 0, // 0 - banner layout, 1 - venue layout
-  bannerPath: "logo_gm_events.svg", // only if banner layout
+  bannerPath: "Spaghetteth_Naples_1.png", // only if banner layout
   venues: [
     {
       name: "Paralelni Polis",
@@ -65,6 +63,10 @@ module.exports = {
       {
         text: "Calendar",
         link: "/calendar/",
+      },
+      {
+        text: "Spaghetteth II",
+        link: "https://naples.spaghett-eth.com/",
       },
     ],
     logo: "logo_gm_events.svg",
