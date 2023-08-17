@@ -1,29 +1,27 @@
 module.exports = {
   base: "/",
-  title: "Example",
-  heading: "Example",
-  dateSubheading: "Example subheading",
-  subHeading: "Hello",
-  calendarHeading: "October 2008",
-  submitEventLink: "https://gmevents.typeform.com/city",
+  title: "Porto GM Events",
+  heading: "GM Porto 2023",
+  dateSubheading: "9. - 19. March 2023",
+  subHeading:
+    "We're bringing the Ethereum community to Porto! This website allows anyone to add and update their side event happening around ETHBarcelona conference & hackathon.",
+  calendarHeading: "March 2023",
+  submitEventLink: "https://gmevents.typeform.com/porto",
   startDate: {
-    day: 1,
-    month: 10,
-    year: 2008,
+    day: 9,
+    month: 3,
+    year: 2023,
   },
   endDate: {
-    day: 31,
-    month: 10,
-    year: 2008,
+    day: 19,
+    month: 3,
+    year: 2023,
   },
   daysInFirstMonth: 31,
   startHour: 8,
   endHour: 24,
   duarationInDays: 10,
   dayNames: [
-    "Friday",
-    "Saturday",
-    "Sunday",
     "Monday",
     "Tuesday",
     "Wednesday",
@@ -31,9 +29,12 @@ module.exports = {
     "Friday",
     "Saturday",
     "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
   ],
   layout: 0, // 0 - banner layout, 1 - venue layout
-  bannerPath: "logo_gm_events.svg", // only if banner layout
+  bannerPath: "eth-porto-banner.jpeg", // only if banner layout
   venues: [
     {
       name: "Paralelni Polis",
@@ -65,6 +66,10 @@ module.exports = {
       {
         text: "Calendar",
         link: "/calendar/",
+      },
+      {
+        text: "ETHPorto",
+        link: "https://ethporto.org/",
       },
     ],
     logo: "logo_gm_events.svg",
