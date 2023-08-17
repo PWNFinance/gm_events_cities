@@ -1,29 +1,27 @@
 module.exports = {
   base: "/",
-  title: "Example",
-  heading: "Example",
-  dateSubheading: "Example subheading",
-  subHeading: "Hello",
-  calendarHeading: "October 2008",
-  submitEventLink: "https://gmevents.typeform.com/city",
+  title: "Zürich GM Events",
+  heading: "GM Zürich 2023",
+  dateSubheading: "10. - 20. April 2023",
+  subHeading:
+    "We're bringing the Ethereum community to the most crypto friendly country and the cradle of blockchain research! This website allows anyone to add and update their side event.",
+  calendarHeading: "April 2023",
+  sumbitEventLink: "https://gmevents.typeform.com/zurich",
   startDate: {
-    day: 1,
-    month: 10,
-    year: 2008,
+    day: 10,
+    month: 4,
+    year: 2023,
   },
   endDate: {
-    day: 31,
-    month: 10,
-    year: 2008,
+    day: 20,
+    month: 4,
+    year: 2023,
   },
-  daysInFirstMonth: 31,
+  daysInFirstMonth: 30,
   startHour: 8,
   endHour: 24,
-  duarationInDays: 10,
+  duarationInDays: 11,
   dayNames: [
-    "Friday",
-    "Saturday",
-    "Sunday",
     "Monday",
     "Tuesday",
     "Wednesday",
@@ -31,9 +29,13 @@ module.exports = {
     "Friday",
     "Saturday",
     "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
   ],
   layout: 0, // 0 - banner layout, 1 - venue layout
-  bannerPath: "logo_gm_events.svg", // only if banner layout
+  bannerPath: "TwitHeader_1500x5002.jpg", // only if banner layout
   venues: [
     {
       name: "Paralelni Polis",
@@ -65,6 +67,10 @@ module.exports = {
       {
         text: "Calendar",
         link: "/calendar/",
+      },
+      {
+        text: "EthereumZuri.ch",
+        link: "https://ethereumzuri.ch/",
       },
     ],
     logo: "logo_gm_events.svg",
