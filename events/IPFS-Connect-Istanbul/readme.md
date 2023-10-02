@@ -28,7 +28,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Devconnect Istanbul
+title: IPFS Connect Istanbul
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -50,6 +50,8 @@ name: IPFS Connect Istanbul
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - Join the IPFS Community for a full day of workshops, lightning talks, and demos showcasing technology, tools, and innovative projects in the IPFS ecosystem.
+  - Are you participating in ETHGlobal Hackathon? Prep for the event by learning about all the tools and SDKs in the IPFS and Filecoin universe that builders can use to add decentralized files and data to their dapps. Proudly supported by Fission and Protocol Labs.
+  - $49 Early Bird | $150 Regular
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -70,7 +72,7 @@ tickets: https://lu.ma/ipfs-connect-istanbul
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: $49 Early Bird | $150 Regular
+price: 49
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: Swissôtel The Bosphorus Istanbul
