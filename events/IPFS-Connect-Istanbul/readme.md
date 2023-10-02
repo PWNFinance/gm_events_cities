@@ -28,19 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Example
+title: IPFS Connect Istanbul
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Example description
+description: A collaborative Ethereum week, built by and for everyone.
+
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Example
+name: IPFS Connect Istanbul
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -48,35 +49,37 @@ name: Example
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - Hello
-
+  - Join the IPFS Community for a full day of workshops, lightning talks, and demos showcasing technology, tools, and innovative projects in the IPFS ecosystem.
+  - Are you participating in ETHGlobal Hackathon? Prep for the event by learning about all the tools and SDKs in the IPFS and Filecoin universe that builders can use to add decentralized files and data to their dapps. Proudly supported by Fission and Protocol Labs.
+  - $49 Early Bird | $150 Regular
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2008-10-31
+date: 2023-11-16
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2008-10-31
+endDate: 2023-11-16
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '09:00'
-time: '04:20'
+time: '09:00'
 # Time when the event ends. Can be left empty.
-endTime:
+endTime: '18:00'
 
-# The URL where to acquire the tickets.
-tickets: https://pwn.xyz/
+# The URL where to acquire the tickets. Can be left empty.
+tickets: https://lu.ma/ipfs-connect-istanbul
 
-# If the entrance is free leave it empty. Please include the currency
-price: €0
+# If the entrance is free, set zero (0) as the price, or leave it empty.
+# _Don't_ write the currency symbol (Euro symbol will be used).
+price: 49
 
 # The name of the venue where the event will be held. Can be left empty.
-venue:
+venue: Swissôtel The Bosphorus Istanbul
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address:
+address: Vişnezade, Acısu Sokaği No:19, 34357 Beşiktaş/İstanbul, Türkiye
 
 # The category of the event. Valid options:
 # - conference
@@ -86,8 +89,7 @@ address:
 # - workshop
 # - party
 # Use _only_ one, and don't capitalize.
-category: party
-
+category: event
 
 #################
 ### SPEAKERS ####
