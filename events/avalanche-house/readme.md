@@ -33,7 +33,7 @@ title: Avalanche House Istanbul
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: A collaborative Ethereum week, built by and for everyone.
+description: The tech is real, and you'll find out how at Avalanche House | Istanbul. 
 
 
 #####################
