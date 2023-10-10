@@ -48,7 +48,7 @@ name: ZuSocial Hacker House
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
-synopsis: ZuSocial Hacker House
+synopsis: 
   - A hacker house for hackers, researchers, and dreamers.
   - A series of pannel discussions surrounding decentralized social. Combines DWeb projects and Web3 projects, and faces the tough questions.
   - Part of ZuConnect popup village and Hack Zuzalu hackathon.
