@@ -53,14 +53,14 @@ synopsis:
   - ​After hosting nearly 1,000 attendees throughout the event during EthCC and speakers from Polygon, Gnosis, ZKSync, NEAR and Cosmos among others, Infra Gardens is back as the go-to event for infrastructure builders and blockchain ecosystems during Devconnect. ​With this lush backdrop, we invite you to join a selected crowd of founders, builders, developers across ecosystems, verticals and layers of web3 to mingle, network and listen to interesting panels or just relax, enjoy food and drinks and some good music.​
   - Why Infra Gardens?​ Infrastructure is the connecting tissue of the web3 technology stack, serving and enabling different ecosystems, providing the rails and tools for L1s and L2s to attract innovation and equipping builders to develop new primitives and applications.​ Infra Gardens assembles four cross-chain, web3 infrastructure projects to host a diverse crowd from L1s and L2s, DeFi and NFTfi projects, communities, and more to network, educate, and drive the conversation about how they can support their goals.​
   - Agenda: ​There will be ample networking and catering throughout the day. In a separate room, there will be a series of panels.​
-  - 12:30 - Doors open
-  - ​13:30 - Panel 1 - Topic and participants TBD​
-  - 14:45 - Panel 2 - Topic and participants TBD​
-  - 15:30 - Panel 3 - Topic and participants TBD
-  - ​16:15 - Panel 4 - Topic and participants TBD
-  - ​17:00 - Networking with food and drinks
-  - ​18:30 - Doors close
-  - 
+  - 12 30 - Doors open
+  - ​13 30 - Panel 1 - Topic and participants TBD​
+  - 14 45 - Panel 2 - Topic and participants TBD​
+  - 15 30 - Panel 3 - Topic and participants TBD
+  - ​16 15 - Panel 4 - Topic and participants TBD
+  - ​17 00 - Networking with food and drinks
+  - ​18 30 - Doors close
+    
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
 date: 2023-11-15
