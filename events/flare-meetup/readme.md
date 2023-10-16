@@ -33,7 +33,7 @@ title: Flare Meetup: Istanbul Edition
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Modular Structures is a highly-anticipated developer event during DevConnect week, thanks to its groundbreaking announcements and transformative approach to secure and scalable building. 
+description: Flare will be inviting developers attending DevConnect Istanbul to the exclusive networking event. 
 
 #####################
 ### EVENT DETAILS ###
@@ -48,36 +48,36 @@ name: Flare Meetup: Istanbul Edition
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
- - Modular Structures is a highly-anticipated developer event during DevConnect week, thanks to its groundbreaking announcements and transformative approach to secure and scalable building.
- - See how this unique partnership forged between infrastructure leaders unlocks next-gen UX for developers to design, build, and scale their dApps and wallets.
+ - Flare will be inviting developers attending DevConnect Istanbul to the exclusive networking event.
+ - The event will be held to foster new connections, engage in meaningful discussions, and expand Flare’s professional network.
     
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2023-11-14
+date: 2023-11-16
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2023-11-14
+endDate: 2023-11-16
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '09:00'
-time: '13:00'
+time: '20:00'
 # Time when the event ends. Can be left empty.
-endTime: '17:00'
+endTime: '23:00'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets: https://lu.ma/modularstructures
+tickets: https://lu.ma/vjuh197f
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: €0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Atölye Creative Hub
+venue: TBA
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Merkez, Silahşör Caddesi, Birahane Sk. No:1, 34381 Şişli/İstanbul, Türkiye
+address: TBA
 
 # The category of the event. Valid options:
 # - conference
