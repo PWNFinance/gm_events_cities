@@ -1,4 +1,4 @@
-# GM Events 
+<img width="1424" alt="image" src="https://github.com/PWNFinance/gm_events_cities/assets/125390337/85524116-eb27-435a-a51d-facc6c5c4322"># GM Events 
 
 GM Events a community-organized initiative. We have no single
 owner. It is an agnostic movement based on the premise that self-organization
@@ -12,4 +12,4 @@ https://istanbul.gm.events.
 For submitting new events please do either of these:
 1) create a PR 
 2) create an issue 
-3) submit a form: https://gmevents.typeform.com/devconnect
+3) submit a form: https://pwn.typeform.com/devconnect 
