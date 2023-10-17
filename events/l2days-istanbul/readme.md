@@ -49,7 +49,7 @@ name: L2 DAYS ISTANBUL
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - A two-day technical conference dedicated to Ethereum L2 Scaling.
-  - Meet industry leaders: builders and developers, learn during talks and panels and dig deeper by attending workshops. As L2BEAT, we are carefully curating the agenda so that it focuses on aspects such as technological breakthroughs and security challenges.
+  - Meet industry leaders, builders and developers, learn during talks and panels and dig deeper by attending workshops. As L2BEAT, we are carefully curating the agenda so that it focuses on aspects such as technological breakthroughs and security challenges.
     
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
