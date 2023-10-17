@@ -33,7 +33,7 @@ title: ETHGünü
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: ETHGünü is a 1-day intro-to-Ethereum event in the Turkish language focused on locals: students, software developers, and people who are curious to learn more about what's possible with Ethereum.
+description: ETHGünü is a 1-day intro-to-Ethereum event in the Turkish language focused on locals - students, software developers, and people who are curious to learn more about what's possible with Ethereum.
 
 #####################
 ### EVENT DETAILS ###
