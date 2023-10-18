@@ -1,4 +1,4 @@
-<img width="1424" alt="image" src="https://github.com/PWNFinance/gm_events_cities/assets/125390337/85524116-eb27-435a-a51d-facc6c5c4322"># GM Events 
+# GM Events
 
 GM Events a community-organized initiative. We have no single
 owner. It is an agnostic movement based on the premise that self-organization
