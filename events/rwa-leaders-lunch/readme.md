@@ -33,7 +33,7 @@ title: RWA Leaders Lunch
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: A collaborative Ethereum week, built by and for everyone.
+description: Calling RWA founders, builders and investors to join us for an invite-only lunch at DevConnect Istanbul!
 
 
 #####################
