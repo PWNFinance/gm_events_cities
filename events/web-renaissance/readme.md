@@ -28,7 +28,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Web Renaissance: Evolution with Neonyx
+title: Web Renaissance - Evolution with Neonyx
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -40,7 +40,7 @@ description: Unlocking Tomorrow's Internet at LabWeek23 with Neonyx.​​
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Web Renaissance: Evolution with Neonyx
+name: Web Renaissance - Evolution with Neonyx
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -51,11 +51,11 @@ synopsis:
   - Unlocking Tomorrow's Internet at LabWeek23 with Neonyx. Join us for a web evolution at LabWeek!
   - We're building an internet where privacy is paramount, data is reliable, and borders vanish.
   - What you can Discover
-    - Cutting-edge Tech, including Blockchain, IPFS, and DHT Innovations
-    - Digital Empowerment
-    - Seamless Interoperability
-    - Privacy & Security
-    - A Borderless Web Shape the digital horizon with us! Welcome to the future!
+  - Cutting-edge Tech, including Blockchain, IPFS, and DHT Innovations
+  - Digital Empowerment
+  - Seamless Interoperability
+  - Privacy & Security
+  - A Borderless Web Shape the digital horizon with us! Welcome to the future!
    
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
