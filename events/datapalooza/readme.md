@@ -50,8 +50,8 @@ name: Datapalooza
 synopsis:
   - Datapalooza will explore data infrastructure and data needs across Ethereum. The event will cover R&D and tooling in The Graph ecosystem and across web3, focusing on use cases for dapps, analytics, tooling, LLMs and more.
   - Join us to collaborate with the data community on building the best solutions for developers and users!
+  - ​Attendees can expect a full day of talks, panels and workshops by developers, researchers and experts.
 
-​Attendees can expect a full day of talks, panels and workshops by developers, researchers and experts.
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
 date: 2023-11-13
