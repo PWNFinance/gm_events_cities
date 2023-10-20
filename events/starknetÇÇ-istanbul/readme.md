@@ -33,7 +33,7 @@ title: StarknetÇÇ Istanbul
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Let's take a break from conferences and talks and get in some movement in honor of code security.​​
+description: ​Join us for a comprehensive one-day StarknetCC.​​
 
 #####################
 ### EVENT DETAILS ###
