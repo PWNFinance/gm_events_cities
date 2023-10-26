@@ -78,7 +78,7 @@ venue: TERRACE FULYA CENTER
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: https://maps.app.goo.gl/A5ongXMsYSpU4sSH8
+address: Teşvikiye, Hakkı Yeten Cd. No:11/13, 34394 Şişli/İstanbul, Turkey
 
 # The category of the event. Valid options:
 # - conference
