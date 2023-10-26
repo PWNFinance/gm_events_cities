@@ -61,12 +61,12 @@ endDate: 2023-11-14
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '09:00'
-time: '09:30'
+time: '09:00'
 # Time when the event ends. Can be left empty.
 endTime: '18:00'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets: https://lu.ma/OFR_Istanbul
+tickets: https://ofr.dev/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
