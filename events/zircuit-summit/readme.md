@@ -90,7 +90,7 @@ venue: Intercontinental Istanbul
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Gümüşsuyu, Asker Ocağı Cd. No:1, 34435 Beyoğlu/İstanbul, Türkiye
+address: Gümüşsuyu, Asker Ocağı Cd. No 1, 34435 Beyoğlu/İstanbul, Türkiye
 
 # The category of the event. Valid options:
 # - conference
