@@ -33,7 +33,7 @@ title: Schelling Point Sessions Istanbul with Gitcoin x Metagov
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: ​Schelling Point's next appearance will be in Istanbul during DevConnect to partner with Metagov for participatory sessions focused on grants in the web3: the role of grants, funding mechanisms, grants programs, and impact reporting.
+description: ​Schelling Point's next appearance will be in Istanbul during DevConnect to partner with Metagov for participatory sessions focused on grants in the web3 - the role of grants, funding mechanisms, grants programs, and impact reporting.
 
 #####################
 ### EVENT DETAILS ###
@@ -48,7 +48,7 @@ name: Schelling Point Sessions Istanbul with Gitcoin x Metagov
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - ​​​Schelling Point's next appearance will be in Istanbul during DevConnect to partner with Metagov for participatory sessions focused on grants in the web3: the role of grants, funding mechanisms, grants programs, and impact reporting.
+  - ​​​Schelling Point's next appearance will be in Istanbul during DevConnect to partner with Metagov for participatory sessions focused on grants in the web3 - the role of grants, funding mechanisms, grants programs, and impact reporting.
     
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
