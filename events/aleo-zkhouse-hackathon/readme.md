@@ -50,29 +50,29 @@ name: Aleo zkHouse Hackathon
 synopsis:
   - ​Hackathon at Aleo zkHouse, Devconnect Istanbul - Solve Aleo bounties to win big.
   - Day 2 - zkHackathon, Duration from 10 AM - 10 PM
-  - ​If you’re coming fresh to Day 2, welcome to Aleo zkHouse, a four-day inclusive and interactive experience for zero-knowledge enthusiasts of all levels. We’ll start the Hackathon by sharing ZK apps built on Aleo to inspire you. Then, it’s your turn: You can bring the Leo skills you honed on Day 1 or your existing Leo know-how to build and deploy apps on Aleo — with the chance to win part of the total $45K in prizes and bounties. ​If you’re new to building Aleo or Web3 apps, join Learn & Earn to master Leo, Aleo’s programming language — and get the chance to earn up to $600 throughout the day’s workshops. Four of the Learn & Earn workshops will cover categories eligible for the $3K bounties awarded at the Hackathon (see the rewards outlined below), the bounties will be handed out by the grantees who led the workshops at Learn & Earn.
+  - ​If you’re coming fresh to Day 2, welcome to Aleo zkHouse, a four-day inclusive and interactive experience for zero-knowledge enthusiasts of all levels. We’ll start the Hackathon by sharing ZK apps built on Aleo to inspire you. Then, it’s your turn - You can bring the Leo skills you honed on Day 1 or your existing Leo know-how to build and deploy apps on Aleo — with the chance to win part of the total $45K in prizes and bounties. ​If you’re new to building Aleo or Web3 apps, join Learn & Earn to master Leo, Aleo’s programming language — and get the chance to earn up to $600 throughout the day’s workshops. Four of the Learn & Earn workshops will cover categories eligible for the $3K bounties awarded at the Hackathon (see the rewards outlined below), the bounties will be handed out by the grantees who led the workshops at Learn & Earn.
   - Here's what the day looks like
-​10 AM - Doors Open: The arena is set for hackers and innovators.
-​10.15 AM - Coffee, Tea + Check-in: Fuel up for an action-packed day.
-​10.45 AM - Intro & Hackathon Guidelines: Equip yourself with all you need to know for the day.
-​11.15 AM - Hacking Begins: Time to get your code game on!
-12 PM - 4 PM - Optional - Workshops led by developers who have built projects on Aleo.
-1 PM - Lunch (A hearty meal to keep those coding juices flowing!)
-​2 PM - Continued Hacking: Dive back into your projects, with our team on standby for any support.
-​7 PM - Final Touches & Prep for Pitches - Get ready to present your genius to the world.
-​8 PM - Pitching Starts - The spotlight is on you!
+  - ​10 AM - Doors Open - The arena is set for hackers and innovators.
+  - ​10.15 AM - Coffee, Tea + Check-in - Fuel up for an action-packed day.
+  - ​10.45 AM - Intro & Hackathon Guidelines - Equip yourself with all you need to know for the day.
+  - 11.15 AM - Hacking Begins - Time to get your code game on!
+  - 12 PM - 4 PM - Optional - Workshops led by developers who have built projects on Aleo.
+  - 1 PM - Lunch (A hearty meal to keep those coding juices flowing!)
+  - ​2 PM - Continued Hacking - Dive back into your projects, with our team on standby for any support.
+  - ​7 PM - Final Touches & Prep for Pitches - Get ready to present your genius to the world.
+  - ​8 PM - Pitching Starts - The spotlight is on you!
   - ​Get big rewards, ​​Every pitched idea will be rewarded with $100. Fully deployed projects on Aleo will be judged and rewarded
-1st place - $15,000
-​​2nd place - $10,000
-3rd place - $5,000
-​Noteworthy projects across categories like gaming, authentication, zFI, ZK ML, and governance can get an additional $3K as a category prize. These categories will be covered at the previous day’s Learn & Earn workshops.  
-Outstanding ideas not fully deployed on Aleo are eligible for a special prize of $1K.
+  - 1st place - $15,000
+  - 2nd place - $10,000
+  - 3rd place - $5,000
+  - ​Noteworthy projects across categories like gaming, authentication, zFI, ZK ML, and governance can get an additional $3K as a category prize. These categories will be covered at the previous day’s Learn & Earn workshops.  
+  - Outstanding ideas not fully deployed on Aleo are eligible for a special prize of $1K.
   - Who should attend? ZK enthusiasts who have a knack for hacking and want to implement their ideas using Aleo, who​ ​aim to build apps that show zero-knowledge’s potential for real-world solutions, who​​ seek feedback, collaboration, or simply wish to pitch their innovations
   - ​We’re here to champion your ideas. ​The Aleo team is present throughout to assist and cheer you on. We’ve got you — whether you're looking for technical help, strategic insights, or inspiration.
   - ​Keep the zkHouse experience going with our other events at Devconnect Istanbul
-Day 3 - Talks
-​Day 4 - SNARK Tank
-​Day 4 - Block Party
+  - Day 3 - Talks
+  - ​Day 4 - SNARK Tank
+  - ​Day 4 - Block Party
   - Aleo is zero-knowledge by design— the only full-stack Layer 1 blockchain integrating ZK at every level to build an actually secure internet. Aleo provides a zero-knowledge technology platform with uncompromising speed and privacy, allowing developers to build full-stack, private applications with the power of ZK on L1.
 
 # The date should be in the format year-month-day (ISO 8601).
