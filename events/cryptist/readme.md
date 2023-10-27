@@ -62,7 +62,7 @@ endDate: 2023-11-11
 # Example: '09:00'
 time: '09:30'
 # Time when the event ends. Can be left empty.
-endTime: '18:00'
+endTime: '16:30'
 
 # The URL where to acquire the tickets. Can be left empty.
 tickets: https://lu.ma/cryptist
