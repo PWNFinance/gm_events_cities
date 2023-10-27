@@ -33,7 +33,7 @@ title: Ethereum's Orbit - Adjacent Architectures
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: 
+description: Ethereum's Orbit is more than an event, it's a rendezvous designed for forward-thinking developers, curious researchers, and visionary engineers.
 
 #####################
 ### EVENT DETAILS ###
@@ -49,7 +49,10 @@ name: Ethereum's Orbit - Adjacent Architectures
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - Ethereum's Orbit is more than an event, it's a rendezvous designed for forward-thinking developers, curious researchers, and visionary engineers. Delve into the realm of hybrid architectures, where opportunities for innovation and collaboration abound.
-
+  - ​There will be 4 main panels, composed by multiple speakers like ​Economies of Scale​Standardizing cross chains, ​Taking RWA out of the sandbox, ​Archiving DA.​
+  - Join us as we explore cutting-edge advancements at the intersection of Ethereum and next-gen blockchain systems.​
+  - Co-Hosted by ​SYS LABS, Rollux, ​SupraOracles, PolyHedra, RiscZero, Metis.
+    
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
 date: 2023-11-13
