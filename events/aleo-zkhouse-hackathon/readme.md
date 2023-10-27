@@ -101,7 +101,7 @@ venue: Soho House Istanbul
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Evliya Çelebi, Meşrutiyet Cd. No:56, 34430 Beyoğlu/İstanbul, Türkiye
+address: Evliya Çelebi, Meşrutiyet Cd. No 56, 34430 Beyoğlu/İstanbul, Türkiye
 
 # The category of the event. Valid options:
 # - conference
