@@ -49,7 +49,7 @@ name: idOS Connect - Identity, user data and privacy
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - Get ready for a laid-back afternoon in the heart of Istanbul at idOS Connect - the identity and privacy event of the year.
-  - 🕌 At idOS Connect - just a short 10-minute walk from the DevConnect Epicenter - we offer a unique blend of relaxation and networking.
+  - 🕌 At idOS Connect - just a short 10-minute walk from the DevConnect Epicenter we offer a unique blend of relaxation and networking.
   - You'll have the opportunity to ​​​Listen to panels about Identity, User Data, and Privacy led by industry experts, ​​​Network and relax while enjoying drinks and snacks, ​​​Groove with music while taking in the stunning Bosphorus view.
   - ​​​Why are we doing this? Devconnect is renowned for attracting builders from all blockchain ecosystems, coming together to tackle the key challenges of making the decentralized web a reality. In line with this vision, idOS serves as the identity layer of web3—a public cross-chain infrastructure dedicated to bringing compliant decentralized identity to web3.
   - Brought to you by NEAR, Aleph Zero, Fractal ID, and Kwil, idOS Connect seamlessly merges the spirit of Devconnect with the innovation of the idOS. Join us as we celebrate the launch of the idOS MVP and dive into vital topics concerning identity, privacy, and user data management in web3.
@@ -81,7 +81,7 @@ venue: Bosphorus Terrace
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Harbiye, Cumhuriyet Cd. No:50, 34367 Şişli/İstanbul, Türkiye
+address: Harbiye, Cumhuriyet Cd. No 50, 34367 Şişli/İstanbul, Türkiye
 
 # The category of the event. Valid options:
 # - conference
