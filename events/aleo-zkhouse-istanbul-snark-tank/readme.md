@@ -54,13 +54,13 @@ synopsis:
   - Join us for SNARK Tank - Whether you’ve been with us from Day 1 or are just joining Aleo zkHouse, you’re encouraged to participate in SNARK Tank, our final event. Day 4 wraps up zkHouse’s four-day inclusive and interactive experience for zero-knowledge enthusiasts.
   - ​At SNARK Tank, we invite you to pitch your ZK projects to investors to potentially get the funding — a share of the impressive $200K prize pool — you need to make your idea a reality. You can also watch the pitches to see what projects rise to the top. It’s all happening inside SoHo House Istanbul’s beautiful velvet-covered screening room.
   - Here's what the day looks like
-1 PM - Doors Open - Gear up for a day that promises intense competition and vibrant celebrations.
-​1.15 PM - Coffee, Light Food, and Lunch Networking: Fuel up and connect before the day’s proceedings.
-​1.45 PM - Introduction to SNARK Tank - Set the stage for a day where ideas transform into investments.
-2 PM - SNARK Tank Pitch Sessions Begin - Watch as ZK founders showcase their innovations, vying for the attention of discerning investors.
-5 PM - Final Round of SNARK Tank - The culmination of pitches; the air thick with anticipation.
-​5.30 PM - SNARK Tank Awards Ceremony - Celebrate the most innovative projects as they receive over $200K in prizes.
-6 PM - Block Party - Wrap up SNARK Tank with a celebration at Aleo zkHouse's Block party!
+  - 1 PM - Doors Open - Gear up for a day that promises intense competition and vibrant celebrations.
+  - ​1.15 PM - Coffee, Light Food, and Lunch Networking - Fuel up and connect before the day’s proceedings.
+  - ​1.45 PM - Introduction to SNARK Tank - Set the stage for a day where ideas transform into investments.
+  - 2 PM - SNARK Tank Pitch Sessions Begin - Watch as ZK founders showcase their innovations, vying for the attention of discerning investors.
+  - 5 PM - Final Round of SNARK Tank - The culmination of pitches; the air thick with anticipation.
+  - ​5.30 PM - SNARK Tank Awards Ceremony - Celebrate the most innovative projects as they receive over $200K in prizes.
+  - 6 PM - Block Party - Wrap up SNARK Tank with a celebration at Aleo zkHouse's Block party!
   - ​Who should attend? ZK investors who are passionate about ​​​developing their ZK projects — and getting the funding they need to take off, ​Discovering the next big ZK projects and the minds behind them, ​Experiencing the intersection of innovation and investment, ​Witness ZK innovation
   - ​The SNARK Tank is more than a competition — it's a testament to the spirit of innovation in the ZK community. After the pitches, head to our Block Party to toast zkHouse and enjoy Turkish food and culture with fellow ZK enthusiasts.
   - ​Day 4 - Block Party
