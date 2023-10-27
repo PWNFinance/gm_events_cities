@@ -79,7 +79,7 @@ venue: Swissôtel The Bosphorus Istanbul
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Tarihi Bomonti Bira Fabrikası Silahşör Cad. Birahane Sok. No: 1 Şişli, Istanbul, Turkey
+address: Tarihi Bomonti Bira Fabrikası Silahşör Cad. Birahane Sok. No 1 Şişli, Istanbul, Turkey
 
 # The category of the event. Valid options:
 # - conference
