@@ -50,18 +50,18 @@ name: Zircuit Launch After Party
 synopsis:
   - Join us for an unforgettable night of immersive entertainment, delectable cocktails, and great company as we celebrate the debut of Zircuit, a fully EVM-compatible zero-knowledge rollup powering the limitless potential of web3. Experience the mesmerizing realm of projection mapping as you witness live performances from the Electric Cellist, NADIA and captivating LED dance shows by Istanbul's very own, Mavish Dance Company. Indulge yourself in complimentary craft cocktails while making connections with fellow industry experts. ​​We hope you can join us in commemorating this significant milestone in Zircuit's mission to scale the future of web3!
   - ​​The Program​
-​Projection Mapping Show Viewing Times
-8.30PM | 9.30PM | 10.30PM
-*Featuring music by Electric Cellist, NADIA
-​Performances by Mavish Dance Company
-8.30PM | 10.30PM
+  - ​Projection Mapping Show Viewing Times
+  - 8.30PM | 9.30PM | 10.30PM
+  - Featuring music by Electric Cellist, NADIA 
+  - ​Performances by Mavish Dance Company 
+  - 8.30PM | 10.30PM
   - ​The Details
-​​🕗 November 14th | 8PM - 11PM
-​​​​​🍸 Open bar all night long
-​🪩 Free entry
-​🌌 Breathtaking projection mapping shows
-🎻 Live performances by electric cellist
-​💃🏼 Special LED dance performances
+  - 🕗 November 14th | 8PM - 11PM
+  - 🍸 Open bar all night long
+  - 🪩 Free entry
+  - 🌌 Breathtaking projection mapping shows
+  - 🎻 Live performances by electric cellist
+  - ​💃🏼 Special LED dance performances
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
