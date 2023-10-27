@@ -54,24 +54,21 @@ synopsis:
   - Join us to hear & discuss the latest in ZK
   - If you’re starting your Aleo zkHouse journey on Day 3, welcome! Part of Devconnect Istanbul — zkHouse is a four-day inclusive and interactive experience for zero-knowledge enthusiasts of all levels. For Day 3’s zkHouse Talks, we’ll explore the latest cryptography research, hardware, and app development in panel discussions and live demos. As the sun sets, we invite you to gather in an adjacent room to continue the conversation with fellow attendees.
   - Here's what the day looks like
-    10 AM - Doors Open: Begin your journey into the vast landscape of ZK.
-    ​10.15 AM - Coffee, Tea + Morning Networking: Start your day by connecting with fellow enthusiasts.
-    10.45 AM - zkTalks Kickoff - Set the stage for a day of insights and revelations.
-    ​11 AM - Fireside Chats - Delve deep into ZK topics with industry leaders.
-    ​12.30 PM - Lunch Break - Refuel for the next round of talks.
-    1.30 PM - Keynotes & Panels - Engage in discussions ranging from cryptography nuances to dApp development strategies.
-    ​3.30 PM - Live Demos - Witness the potential of ZK in action.
-    5 PM - Closing Remarks - Reflect on the day's learnings.
-    6 PM - zkLounge - Mingle, savor cocktails, indulge in canapés, and forge connections in a laid-back ambiance.
-
+  - 10 AM - Doors Open - Begin your journey into the vast landscape of ZK.
+  - ​10.15 AM - Coffee, Tea + Morning Networking - Start your day by connecting with fellow enthusiasts.
+  - 10.45 AM - zkTalks Kickoff - Set the stage for a day of insights and revelations.
+  - ​11 AM - Fireside Chats - Delve deep into ZK topics with industry leaders.
+  - ​12.30 PM - Lunch Break - Refuel for the next round of talks.
+  - 1.30 PM - Keynotes & Panels - Engage in discussions ranging from cryptography nuances to dApp development strategies.
+  - ​3.30 PM - Live Demos - Witness the potential of ZK in action.
+  - 5 PM - Closing Remarks - Reflect on the day's learnings.
+  - 6 PM - zkLounge - Mingle, savor cocktails, indulge in canapés, and forge connections in a laid-back ambiance.
   - ​Who should attend - ZK enthusiasts who are interested in ​​the depth and breadth of zero-knowledge technologies, who are engaging in meaningful discussions with experts and peers, ​​who like networking and conversing with fellow attendees in a relaxed setting (after the talks). Don't forget to ​bring your curiosity.
   - ​Each talk aims to be thought-provoking and insightful. We encourage you to take the opportunity to question, engage, and contribute to the discussions.
-​  - Keep the zkHouse experience going with our other events at Devconnect Istanbul
-
-​Day 4 - SNARK Tank
-​Day 4 - Block Party
-
-​  - Aleo is zero-knowledge by design— the only full-stack Layer 1 blockchain integrating ZK at every level to build an actually secure internet. Aleo provides a zero-knowledge technology platform with uncompromising speed and privacy, allowing developers to build full-stack, private applications with the power of ZK on L1.
+  - Keep the zkHouse experience going with our other events at Devconnect Istanbul
+  - ​Day 4 - SNARK Tank
+  - Day 4 - Block Party
+  - Aleo is zero-knowledge by design— the only full-stack Layer 1 blockchain integrating ZK at every level to build an actually secure internet. Aleo provides a zero-knowledge technology platform with uncompromising speed and privacy, allowing developers to build full-stack, private applications with the power of ZK on L1.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
