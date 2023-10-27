@@ -89,7 +89,7 @@ venue: Cistern of Theodosius
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Binbirdirek, Piyer Loti Cd. No:2/1, 34122 Fatih/İstanbul, Türkiye
+address: Binbirdirek, Piyer Loti Cd. No 2/1, 34122 Fatih/İstanbul, Türkiye
 
 # The category of the event. Valid options:
 # - conference
