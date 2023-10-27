@@ -53,13 +53,11 @@ synopsis:
   - This four-day event is your chance to engage with the Zircuit team and mingle with fellow members of the Web3 community. Explore the latest trends, share ideas, and find common ground with fellow builders and professionals passionate about the blockchain and decentralized world ⚒️
   - We'll be serving free coffee so come and savor a freshly brewed coffee on us! ☕️
   - 🗓️ Schedule
-
-​November 13th | 9 AM - 4 PM
-​November 14th | 9 AM - 1 PM
-​November 15th | 9 AM - 4 PM
-​November 16th | 9 AM - 4 PM
-
-​  - The Venue - ​Cafe Juno provides an inviting and cozy atmosphere. The stylish decor and warm, welcoming staff create an ambiance that's perfect for work, study, or leisure. You'll find comfortable seating, soft lighting, and an inviting environment that makes it the ideal spot to unwind or savor a perfect cup of coffee.
+  - November 13th | 9 AM - 4 PM
+  - ​November 14th | 9 AM - 1 PM
+  - ​November 15th | 9 AM - 4 PM
+  - ​November 16th | 9 AM - 4 PM
+  - The Venue - ​Cafe Juno provides an inviting and cozy atmosphere. The stylish decor and warm, welcoming staff create an ambiance that's perfect for work, study, or leisure. You'll find comfortable seating, soft lighting, and an inviting environment that makes it the ideal spot to unwind or savor a perfect cup of coffee.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -87,7 +85,7 @@ venue: Juno
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Mim Kemal Öke Cd. No:15 Harbiye, Mim Kemal Öke Cd. No:15, 34367 Şişli/İstanbul, Türkiye
+address: Mim Kemal Öke Cd. No 15 Harbiye, Mim Kemal Öke Cd. No 15, 34367 Şişli/İstanbul, Türkiye
 
 # The category of the event. Valid options:
 # - conference
