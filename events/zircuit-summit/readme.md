@@ -51,17 +51,17 @@ synopsis:
   - Join us in commemorating the debut of Zircuit, a fully EVM-compatible zero-knowledge rollup powering the limitless potential of web3. This half-day summit will feature both technical and non-technical talks on Zircuit’s creation, features, and developer partner program.
   - ​​We have an exciting event lined up for you! You will have access to exclusive Zircuit swag 👕, the opportunity to interact with our team at the Q&A booth, network with key industry professionals 👥, and enjoy an authentic Turkish coffee experience along with delectable snacks 🍪
   - The Program
-Opening Remarks | Martinet Lee
-Announcing Zircuit | Richard Ma
-Zircuit's Features & Roadmap | Martin Derka
-The Role of ZK Rollups for Scaling Ethereum Panel
-• David Knott | Coinbase
-• Terence Tsao | Prysmatic Labs
-• Brian Retford | Risk Zero
-• Franklin Bi | Pantera Capital
-Zircuit's ZK Innovation | Mohsen Ahmadvand
-Ecosystem Highlights | Angel Xu
-Zircuit Team Introduction | Zircuit Team
+  - Opening Remarks | Martinet Lee
+  - Announcing Zircuit | Richard Ma
+  - Zircuit's Features & Roadmap | Martin Derka
+  - The Role of ZK Rollups for Scaling Ethereum Panel
+  - • David Knott | Coinbase
+  - • Terence Tsao | Prysmatic Labs
+  - • Brian Retford | Risk Zero
+  - • Franklin Bi | Pantera Capital
+  - Zircuit's ZK Innovation | Mohsen Ahmadvand
+  - Ecosystem Highlights | Angel Xu
+  - Zircuit Team Introduction | Zircuit Team
   - About Zircuit - ​Zircuit is a fully EVM-compatible zero-knowledge rollup powering the limitless potential of web3. Backed by pioneering L2 research, the network’s unique hybrid architecture combines optimistic infrastructure with zero-knowledge proofs to give developers the best of both worlds. With cutting-edge performance and security at the sequencer level, users can explore new frontiers with faster transactions, reduced fees, and complete peace of mind.
     
 # The date should be in the format year-month-day (ISO 8601).
