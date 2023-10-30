@@ -67,7 +67,7 @@ endDate: 2023-11-13
 # Example: '09:00'
 time: '17:30'
 # Time when the event ends. Can be left empty.
-endTime: '10:00'
+endTime: '22:00'
 
 # The URL where to acquire the tickets. Can be left empty.
 tickets: https://lu.ma/zk_istanbul
