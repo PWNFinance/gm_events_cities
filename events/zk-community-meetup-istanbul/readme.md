@@ -49,11 +49,7 @@ name: ZK Community Meetup Istanbul
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - ZK Seasons hosts community meetups that feature renowned speakers from the world of Zero-Knowledge. The events are supported by leading investment funds and media companies.
-  - Join us on November 13th for the ZK Community Meetup Istanbul!
-    - ⚡️ Deep-dive panel discussions
-    - ⚡️ Countless networking opportunities
-    - ⚡️ Tightly-knit community
-    - ⚡️ Hacker spirit
+  - Join us on November 13th for the ZK Community Meetup Istanbul! ⚡️ Deep-dive panel discussions ⚡️ Countless networking opportunities ⚡️ Tightly-knit community ⚡️ Hacker spirit
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
