@@ -28,7 +28,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Aleo zkHouse - Block Party 🎉
+title: Aleo zkHouse - ZK Is Magic 🪄
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -40,7 +40,7 @@ description: ​Block Party at Aleo zkHouse - Celebrate your builds and wins und
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Aleo zkHouse - Block Party 🎉
+name: Aleo zkHouse - ZK Is Magic 🪄
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -72,7 +72,7 @@ time: '18:00'
 endTime: '23:59'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets: https://twitter.com/AleoHQ
+tickets: https://lu.ma/zkismagic?mtm_campaign=Aleo-DevConnect-Event&mtm_medium=Event&mtm_source=Serotonin
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
