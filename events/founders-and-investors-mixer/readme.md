@@ -82,7 +82,7 @@ venue: Karloff Bar
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Teşvikiye, Hacı Emin Efendi Sk. No:41, 34365 Şişli/İstanbul, Türkiye
+address: Teşvikiye, Hacı Emin Efendi Sk. No 41, 34365 Şişli/İstanbul, Türkiye
 
 # The category of the event. Valid options:
 # - conference
