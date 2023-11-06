@@ -28,19 +28,19 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Pitch Event @Istanbul
+title: Pitch Event Istanbul
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: @Founders, we would love to meet you at Devconnect! 
+description: Founders, we would love to meet you at Devconnect! 
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Pitch Event @Istanbul
+name: Pitch Event Istanbul
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -48,7 +48,7 @@ name: Pitch Event @Istanbul
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - @Founders, we would love to meet you at Devconnect!
+  - Founders, we would love to meet you at Devconnect!
   - Join us for some 1-1 pitch sessions and drinks with VC funds that are excited to hear your story.
   - Venue address to be shared upon confirmation of participation.
   - Pitches - Invited founders will have one-to-one 30min pitches with one or multiple VCs.
