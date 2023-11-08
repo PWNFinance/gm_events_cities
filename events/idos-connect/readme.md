@@ -22,7 +22,6 @@
 # and can be safely removed, including these instructions.
 ###############
 
-
 ###########
 ### SEO ###
 ###########
@@ -54,7 +53,7 @@ synopsis:
   - ​​​Why are we doing this? Devconnect is renowned for attracting builders from all blockchain ecosystems, coming together to tackle the key challenges of making the decentralized web a reality. In line with this vision, idOS serves as the identity layer of web3—a public cross-chain infrastructure dedicated to bringing compliant decentralized identity to web3.
   - Brought to you by NEAR, Aleph Zero, Fractal ID, and Kwil, idOS Connect seamlessly merges the spirit of Devconnect with the innovation of the idOS. Join us as we celebrate the launch of the idOS MVP and dive into vital topics concerning identity, privacy, and user data management in web3.
   - Connect with fellow visionaries, founders, and builders. Learn from thought leaders and actively participate in shaping the future of the decentralized web.
-    
+
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
 date: 2023-11-16
@@ -81,7 +80,7 @@ venue: CVK Park Bosphorus Hotel Istanbul
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Gümüşsuyu, İnönü Cd. No: 8, 34437 Beyoğlu/İstanbul, Türkiye
+address: Gümüşsuyu, İnönü Cd. No 8, 34437 Beyoğlu/İstanbul, Türkiye
 
 # The category of the event. Valid options:
 # - conference
@@ -102,7 +101,6 @@ category: panel
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
-
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
 
