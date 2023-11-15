@@ -55,8 +55,8 @@ synopsis:
   - Networking - Pitches will be followed by networking drinks and lunch.
   - Time - Each selected startup will receive its own schedule with exact pitch times. Pitch sessions will take place between 9am-1pm, Networking drinks and lunch as of 1pm
   - Notes - Given that seats are limited, we will need to make a selection.
-  - - We will confirm the selected participants by Monday 13th November (by end of the day).
-  - - Each startup will only need to fill in the form once.
+  - We will confirm the selected participants by Monday 13th November (by end of the day).
+  - Each startup will only need to fill in the form once.
   - Participating VC funds - Tioga Capital, RockawayX, Maven11, Longhash Ventures, Zee Prime Capital, Delta
 
 # The date should be in the format year-month-day (ISO 8601).
