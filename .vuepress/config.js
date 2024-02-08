@@ -38,7 +38,7 @@ module.exports = {
     "Sunday",
   ],
   layout: 0, // 0 - banner layout, 1 - venue layout
-  bannerPath: "ETH_Zu24_web-datum.png", // only if banner layout
+  bannerPath: "Zu24_social_uzh3.jpg", // only if banner layout
   venues: [
     {
       name: "Duct Tape",
