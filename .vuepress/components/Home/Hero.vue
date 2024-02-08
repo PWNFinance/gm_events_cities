@@ -54,15 +54,17 @@ export default {
   width 100%
 
   &_headline-date
-    font-size clamp(2rem, calc(-.875rem + 1.8vw),5.5rem)
+    font-size clamp(2rem, calc(-.875rem + 1.8vw),8.5rem)
+    line-height 28px
     margin-bottom 1rem
-    max-width 70rem
+    max-width 55rem
     text-align center
 
   &_headline-paragraph
-    font-size clamp(1rem, calc(-.875rem + 1.8vw),2.5rem)
+    font-size clamp(1rem, calc(-.875rem + 1.8vw),8.5rem)
+    line-height 28px
     margin-bottom 1rem
-    max-width clamp(34rem, 30vw, 70rem)
+    max-width 55rem
     text-align center
 
   &_headline

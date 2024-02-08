@@ -30,6 +30,4 @@ export default {
   &_img
     width 100%
     margin-bottom 40px
-    max-height 75rem
-    object-fit cover
 </style>
