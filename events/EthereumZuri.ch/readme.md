@@ -49,7 +49,8 @@ name: EthereumZuri.ch
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - For over a decade, Switzerland has been renowned as one of the most forward-thinking and innovative epicenters for blockchain technology. We invite all blockchain professionals, researchers, and enthusiasts to the heart of this innovation, Zürich, to learn, connect, experiment, and engage with the vibrant and passionate Swiss blockchain community.
+  - For over a decade, Switzerland has been renowned as one of the most forward-thinking and innovative epicenters for blockchain technology.
+  - We invite all blockchain professionals, researchers, and enthusiasts to the heart of this innovation, Zürich, to learn, connect, experiment, and engage with the vibrant and passionate Swiss blockchain community.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
