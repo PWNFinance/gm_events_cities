@@ -54,15 +54,15 @@ synopsis:
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2023-06-09
+date: 2024-05-31
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2023-06-11
+endDate: 2023-06-02
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '09:00'
-time: '09:00'
+time: '10:00'
 # Time when the event ends. Can be left empty.
 endTime: '18:00'
 
@@ -74,11 +74,11 @@ tickets: https://ethprague.com/
 price: €169
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Paralelní Polis
+venue: Hala 13, Holešovická tržnice
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Dělnická 43, Prague, 17000 Czech Republic
+address: Prague, 17000 Czech Republic
 
 # The category of the event. Valid options:
 # - conference
