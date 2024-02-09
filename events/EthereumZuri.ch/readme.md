@@ -49,8 +49,7 @@ name: EthereumZuri.ch
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - GM everyone, PWN has prepared for you some wine in the end of the first day of the conference. Come and join us, network, discuss the topics or talks that brought your attention on the first day, or just have fun and make new frens.
-  - This event has no agenda and is for every attendee of the conference, just come and have some wine with us. 
+  - For over a decade, Switzerland has been renowned as one of the most forward-thinking and innovative epicenters for blockchain technology. We invite all blockchain professionals, researchers, and enthusiasts to the heart of this innovation, Zürich, to learn, connect, experiment, and engage with the vibrant and passionate Swiss blockchain community.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -67,9 +66,9 @@ time: '11:00'
 endTime: '17:00'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.ch/e/wine-not-meetup-by-pwn-tickets-618102560397
+tickets: https://tix.ducttape.events/dt/EthereumZuri.ch24/
 
-# If the entrance is free, set zero (0) as the price, or leave it empty.
+# If the entrance is free, set zero (0) as the pricve, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: 111
 
