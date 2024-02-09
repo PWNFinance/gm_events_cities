@@ -1,11 +1,11 @@
 module.exports = {
   base: "/",
   title: "Prague GM Events",
-  heading: "GM Prague 2023",
-  dateSubheading: "27. May - 9. June 2023",
+  heading: "GM Prague 2024",
+  dateSubheading: "27. May - 9. June 2024",
   subHeading:
-    "We're bringing the Ethereum community to Prague! This website allows anyone to add and update their side event happening around DeFi Summit and ETHPrague conference & hackathon.",
-  calendarHeading: "June 2023",
+    "We're bringing the Ethereum community to Prague! This website allows anyone to add and update their side event happening around ETHPrague conference & hackathon.",
+  calendarHeading: "June 2024",
   submitEventLink: "https://gmevents.typeform.com/ethprague",
   startDate: {
     day: 27,
