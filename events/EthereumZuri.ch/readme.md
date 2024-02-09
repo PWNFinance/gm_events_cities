@@ -28,12 +28,12 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Wine not meetup by PWN
+title: EthereumZuri.ch
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Come and have some wine with the PWN team and the EthereumZuri.ch conference attendees. Network and make new frens!
+description: For over a decade, Switzerland has been renowned as one of the most forward-thinking and innovative epicenters for blockchain technology. We invite all blockchain professionals, researchers, and enthusiasts to the heart of this innovation, Zürich, to learn, connect, experiment, and engage with the vibrant and passionate Swiss blockchain community.
 
 
 #####################
@@ -41,7 +41,7 @@ description: Come and have some wine with the PWN team and the EthereumZuri.ch c
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Wine not meetup by PWN
+name: EthereumZuri.ch
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -54,31 +54,31 @@ synopsis:
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2023-04-04
+date: 2024-04-05
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2023-04-04
+endDate: 2024-04-07
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '15:00'
+time: '11:00'
 # Time when the event ends. Can be left empty.
-endTime: 
+endTime: '17:00'
 
 # The URL where to acquire the tickets. Can be left empty.
 tickets: https://www.eventbrite.ch/e/wine-not-meetup-by-pwn-tickets-618102560397
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 0
+price: 111
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: University of Zurich
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Häldeliweg 2, 8044 Zürich, Switzerland
+address: Campus Irchel Y 17, 8044 Zürich, Switzerland
 
 # The category of the event. Valid options:
 # - conference
@@ -88,7 +88,7 @@ address: Häldeliweg 2, 8044 Zürich, Switzerland
 # - workshop
 # - party
 # Use _only_ one, and don't capitalize.
-category: event
+category: conference
 
 #################
 ### SPEAKERS ####
