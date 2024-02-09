@@ -2,26 +2,30 @@ module.exports = {
   base: "/",
   title: "Prague GM Events",
   heading: "GM Prague 2023",
-  dateSubheading: "2. - 11. June 2023",
+  dateSubheading: "27. May - 9. June 2023",
   subHeading:
     "We're bringing the Ethereum community to Prague! This website allows anyone to add and update their side event happening around DeFi Summit and ETHPrague conference & hackathon.",
   calendarHeading: "June 2023",
   submitEventLink: "https://gmevents.typeform.com/ethprague",
   startDate: {
-    day: 2,
-    month: 6,
-    year: 2023,
+    day: 27,
+    month: 5,
+    year: 2024,
   },
   endDate: {
-    day: 11,
+    day: 9,
     month: 6,
-    year: 2023,
+    year: 2024,
   },
-  daysInFirstMonth: 30,
+  daysInFirstMonth: 31,
   startHour: 8,
   endHour: 24,
-  duarationInDays: 10,
+  duarationInDays: 14,
   dayNames: [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
     "Friday",
     "Saturday",
     "Sunday",
@@ -34,7 +38,7 @@ module.exports = {
     "Sunday",
   ],
   layout: 0, // 0 - banner layout, 1 - venue layout
-  bannerPath: "DeFiSummit_ETHPrague.jpg", // only if banner layout
+  bannerPath: "ETH_Prg3_TwitHeader2.png", // only if banner layout
   venues: [
     {
       name: "Paralelni Polis",
@@ -70,10 +74,6 @@ module.exports = {
       {
         text: "ETHPrague",
         link: "https://www.ethprague.com/",
-      },
-       {
-        text: "DeFi Summit",
-        link: "https://praguedefisummit.com/",
       },
     ],
     logo: "logo_gm_events.svg",
