@@ -78,7 +78,7 @@ venue: University of Zurich Blockchain Center (Zurich)
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Andreasstrasse 15 CH-8050 Zurich, Switzerland
+address: Andreasstrasse 15/Universität Zürich, 8050 Zürich, Switzerland
 
 # The category of the event. Valid options:
 # - conference
