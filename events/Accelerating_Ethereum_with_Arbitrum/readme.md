@@ -28,12 +28,12 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: EthereumZuri.ch
+title: Accelerating Ethereum with Arbitrum
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: For over a decade, Switzerland has been renowned as one of the most forward-thinking and innovative epicenters for blockchain technology. We invite all blockchain professionals, researchers, and enthusiasts to the heart of this innovation, Zürich, to learn, connect, experiment, and engage with the vibrant and passionate Swiss blockchain community.
+description: Join us for an exclusive side event during ETH Zurich, dedicated to exploring the transformative potential of Arbitrum, Ethereum's leading Layer 2 scaling solution.
 
 
 #####################
@@ -41,7 +41,7 @@ description: For over a decade, Switzerland has been renowned as one of the most
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: EthereumZuri.ch
+name: Accelerating Ethereum with Arbitrum
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -49,36 +49,37 @@ name: EthereumZuri.ch
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - For over a decade, Switzerland has been renowned as one of the most forward-thinking and innovative epicenters for blockchain technology.
-  - We invite all blockchain professionals, researchers, and enthusiasts to the heart of this innovation, Zürich, to learn, connect, experiment, and engage with the vibrant and passionate Swiss blockchain community.
+  - Join us for an exclusive side event during ETH Zurich, dedicated to exploring the transformative potential of Arbitrum, Ethereum's leading Layer 2 scaling solution. Dive deep into the world of decentralized finance (DeFi) and decentralized applications (DApps) as we showcase how Arbitrum is revolutionizing Ethereum's scalability.
+  - Our event features a lineup of expert speakers who will deliver short presentations, providing invaluable insights into the latest developments, use cases, and best practices surrounding Arbitrum. From enhancing transaction throughput to reducing gas fees and improving user experience, learn how Arbitrum is shaping the future of blockchain technology.After the presentations, unwind and network with fellow attendees over drinks and refreshments. Exchange ideas, forge new connections, and be part of the vibrant community driving innovation in the blockchain space.
 
+    
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2024-04-05
+date: 2024-04-06
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2024-04-07
+endDate: 
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '11:00'
+time: '17:00'
 # Time when the event ends. Can be left empty.
-endTime: '17:00'
+endTime: '20:00'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets: https://tix.ducttape.events/dt/EthereumZuri.ch24/
+tickets:
 
 # If the entrance is free, set zero (0) as the pricve, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 111
+price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: University of Zurich
+venue: BCC – UZH Blockchain Center (Zurich)
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Campus Irchel Y 17, 8044 Zürich, Switzerland
+address: Andreasstrasse 15/Universität Zürich, 8050 Zürich, Switzerland
 
 # The category of the event. Valid options:
 # - conference
@@ -88,7 +89,7 @@ address: Campus Irchel Y 17, 8044 Zürich, Switzerland
 # - workshop
 # - party
 # Use _only_ one, and don't capitalize.
-category: conference
+category: event
 
 #################
 ### SPEAKERS ####
