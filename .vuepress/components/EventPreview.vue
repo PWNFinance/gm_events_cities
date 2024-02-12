@@ -14,7 +14,7 @@
     
             <Badge v-if="event.frontmatter.featured" slot="after" :text="'TOP'" />
           </div>
-          <div class="event-preview_button-attend-event-container">
+          <div class="event-preview_button-attend-event-container" v-if="event.frontmatter.tickets != null">
             <Button buttonText="Attend event" :to="event.frontmatter.tickets" className="event-preview_button-attend-event"/>
           </div>
         </div>
