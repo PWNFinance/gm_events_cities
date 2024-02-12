@@ -18,7 +18,7 @@
       <DateTime :isOneLine="true"/>
     </div>
 
-    <div class="content__category-and-link-to-website">
+    <div class="content__category-and-link-to-website" v-if="$page.frontmatter.tickets != null">
       <Badge :text="capitalizeWord(data.category)"/>
       <div class="content__button-attend-event-container">
         <Button buttonText="Attend event" :to="$page.frontmatter.tickets" className="content__button-attend-event"/>
@@ -38,7 +38,7 @@
       <MapLink/>
     </div>
 
-    <div class="content__more-info" v-if="data.tickets">
+    <div class="content__more-info" v-if="data.tickets != null">
       <h2>More information</h2>
       <TicketsLink/>
     </div>
