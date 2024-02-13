@@ -52,7 +52,7 @@ synopsis:
   - Hosted by Fiat24 and Crypto Valley Association, with speakers from Offchain Labs, Arbitrum Grants and Gov, Camelot, and more.
   - Join us for an exclusive side event during ETH Zurich, dedicated to exploring the transformative potential of Arbitrum, Ethereum's leading Layer 2 scaling solution. 
  - Dive deep into the world of decentralized finance (DeFi) and decentralized applications (DApps) as we showcase how Arbitrum is revolutionizing Ethereum's scalability. Our event features a lineup of expert speakers who will deliver short presentations, providing invaluable insights into the latest developments, use cases, and best practices surrounding Arbitrum. From enhancing transaction throughput to reducing gas fees and improving user experience, learn how Arbitrum is shaping the future of blockchain technology.
- - After the presentations, unwind and network with fellow attendees over drinks and refreshments. Exchange ideas, forge new connections, and be part of the vibrant community driving innovation in the blockchain space.
+ - After the presentations, unwind and network with fellow attendees over drinks and refreshments. Exchange ideas, forge new connections, and be part of the vibrant community driving innovation in the blockchain space. 
 
     
 # The date should be in the format year-month-day (ISO 8601).
