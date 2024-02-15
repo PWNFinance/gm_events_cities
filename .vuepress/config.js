@@ -2,7 +2,7 @@ module.exports = {
   base: "/",
   title: "Zürich GM Events",
   heading: "GM Zürich 2024",
-  dateSubheading: "1. - 14. April 2024",
+  dateSubheading: "1 - 14 April 2024",
   subHeading:
     "We're bringing the Ethereum community to the most crypto friendly country and the cradle of blockchain research! This website allows anyone to add and update their side event.",
   calendarHeading: "April 2024",
