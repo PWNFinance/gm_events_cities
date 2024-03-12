@@ -35,7 +35,6 @@ title: Accelerating Ethereum with Arbitrum
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: Join us for an exclusive side event during ETH Zurich, dedicated to exploring the transformative potential of Arbitrum, Ethereum's leading Layer 2 scaling solution.
 
-
 #####################
 ### EVENT DETAILS ###
 #####################
@@ -71,7 +70,7 @@ time: '17:00'
 endTime: '20:00'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets:
+tickets:https://lu.ma/uxzdmzq6
 
 # If the entrance is free, set zero (0) as the pricve, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
@@ -103,6 +102,9 @@ category: event
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
+Akaki Mamageishvili 
+Popescu Razvan Matei (aka ZER8)
+Iron Boots 
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
