@@ -102,9 +102,9 @@ category: event
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:  
-  - Akaki Mamageishvili
-  - Popescu Razvan Matei
-  - Iron Boots
+  -    Akaki Mamageishvili from Offchain Labs
+  -    Popescu Razvan Matei (aka ZER8) from Arbitrum DAO
+  -    Iron Boots from Camelot DEX
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
