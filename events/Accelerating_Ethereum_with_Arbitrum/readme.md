@@ -65,7 +65,7 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '17:00'
+time: '15:00'
 # Time when the event ends. Can be left empty.
 endTime: '20:00'
 
@@ -77,11 +77,11 @@ tickets: https://lu.ma/uxzdmzq6
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: BCC – UZH Blockchain Center (Zurich)
+venue: TRUST SQUARE (Zurich)
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Andreasstrasse 15/Universität Zürich, 8050 Zürich, Switzerland
+address: Rennweg 57, 8001 Zürich, Switzerland
 
 # The category of the event. Valid options:
 # - conference
@@ -101,7 +101,9 @@ category: event
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
-speakers:
+speakers:  - Akaki Mamageishvili from Offchain Labs
+  - Popescu Razvan Matei from Arbitrum DAO
+  - Iron Boots from Camelot DEX
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
