@@ -101,9 +101,7 @@ category: event
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
-speakers: -Akaki Mamageishvili
-  -Popescu Razvan Matei
-  -Iron Boots
+speakers:
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
