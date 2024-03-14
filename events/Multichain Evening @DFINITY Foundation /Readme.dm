@@ -28,19 +28,18 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Accelerating Ethereum with Arbitrum
+title: Multichain Evening @ DFINITY Foundation
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Join us for an exclusive side event during ETH Zurich, dedicated to exploring the transformative potential of Arbitrum, Ethereum's leading Layer 2 scaling solution.
-
+description: We cordially invite you to an Apéro at the DFINITY office to highlight our Multichain capabilities and to kick off Ethereum Züri 2024!
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Accelerating Ethereum with Arbitrum
+name: Multichain Evening @ DFINITY Foundation
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -48,16 +47,13 @@ name: Accelerating Ethereum with Arbitrum
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - Hosted by Fiat24 and Crypto Valley Association, with speakers from Offchain Labs, Arbitrum Grants and Gov, Camelot, and more.
-  - Join us for an exclusive side event during ETH Zurich, dedicated to exploring the transformative potential of Arbitrum, Ethereum's leading Layer 2 scaling solution.
-  - Dive deep into the world of decentralized finance (DeFi) and decentralized applications (DApps) as we showcase how Arbitrum is revolutionizing Ethereum's scalability. Our event features a lineup of expert speakers who will deliver short presentations, providing invaluable insights into the latest developments, use cases, and best practices surrounding Arbitrum. From enhancing transaction throughput to reducing gas fees and improving user experience, learn how Arbitrum is shaping the future of blockchain technology.
-  - After the presentations, unwind and network with fellow attendees over drinks and refreshments. Exchange ideas, forge new connections, and be part of the vibrant community driving innovation in the blockchain space.
- 
+  - As we convene at the DFINITY office, participants will have the opportunity to engage in enriching dialogues, form strategic alliances, and gain insights into the imminent advancements that promise to shape the future of decentralized technology.
+  - ​The evening is poised to offer a platform for thought leaders, developers, and blockchain aficionados to exchange ideas and envision the potential of a unified multichain future.
 
     
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2024-04-06
+date: 2024-04-05
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate: 
@@ -65,23 +61,23 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '15:00'
+time: '17:30'
 # Time when the event ends. Can be left empty.
-endTime: '20:00'
+endTime: '22:00'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets: https://lu.ma/uxzdmzq6
+tickets: https://lu.ma/ICPMultichain
 
 # If the entrance is free, set zero (0) as the pricve, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TRUST SQUARE (Zurich)
+venue: DFINITY Foundation
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Rennweg 57, 8001 Zürich, Switzerland
+address: Genferstrasse 11, 8002 Zurich
 
 # The category of the event. Valid options:
 # - conference
