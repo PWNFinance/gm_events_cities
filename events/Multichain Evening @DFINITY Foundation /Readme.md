@@ -47,6 +47,7 @@ name: Multichain Evening @ DFINITY Foundation
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
+  - We cordially invite you to an Apéro at the DFINITY office to highlight our Multichain capabilities and to kick off Ethereum Züri 2024!
   - As we convene at the DFINITY office, participants will have the opportunity to engage in enriching dialogues, form strategic alliances, and gain insights into the imminent advancements that promise to shape the future of decentralized technology.
   - ​The evening is poised to offer a platform for thought leaders, developers, and blockchain aficionados to exchange ideas and envision the potential of a unified multichain future.
 
