@@ -28,7 +28,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: ad to Ethereum Zurich Part II- Solidity DeFi Workshop
+title: Road to Ethereum Zurich Part II- Solidity DeFi Workshop
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -40,7 +40,7 @@ description: Ever wanted to develop your own DeFi Protocol?You will have the opp
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: ad to Ethereum Zurich Part II- Solidity DeFi Workshop
+name: Road to Ethereum Zurich Part II- Solidity DeFi Workshop
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
