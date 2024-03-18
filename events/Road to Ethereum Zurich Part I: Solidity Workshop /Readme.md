@@ -39,7 +39,7 @@ description: Ever wondered how Smart Contracts that run Web3 really work? You wi
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Road to Ethereum Zurich Part I: Solidity Workshop
+name: Road to Ethereum Zurich Part I- Solidity Workshop
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
