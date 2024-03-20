@@ -28,7 +28,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Multichain Evening @ DFINITY Foundation
+title: Opening Night of ETH Zuri & Multichain Future Debate
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -39,7 +39,7 @@ description: We cordially invite you to an Apéro at the DFINITY office to highl
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Multichain Evening @ DFINITY Foundation
+name: Opening Night of ETH Zuri & Multichain Future Debate
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -54,7 +54,7 @@ synopsis:
     
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2024-04-05
+date: 2024-04-04
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate: 
@@ -64,7 +64,7 @@ endDate:
 # Example: '18:00'
 time: '17:30'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: '21:30'
 
 # The URL where to acquire the tickets. Can be left empty.
 tickets: https://lu.ma/ICPMultichain
