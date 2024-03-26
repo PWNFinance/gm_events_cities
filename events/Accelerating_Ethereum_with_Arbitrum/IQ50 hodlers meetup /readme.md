@@ -52,7 +52,7 @@ synopsis:
     
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2024-02-06
+date: 2024-04-06
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate: 
