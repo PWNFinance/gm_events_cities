@@ -49,7 +49,7 @@ name: Speaker’s Night - Ethereum Zurich 2024
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - Meet the Speakers of Ethereum Zurich Conference in person, chat and network with them and fellow conference participants, builders and the community.
-  - Organizers: swissDAO, the web3 builder community and the official Swiss ecosystem partners of Ethereum Zürich, and CV Labs, the famous blockchain ecosystem builder from the heart of Crypto Valley, bringing blockchain to the forefront of technology.
+  - Organized by swissDAO, the web3 builder community and the official Swiss ecosystem partners of Ethereum Zürich, and CV Labs, the famous blockchain ecosystem builder from the heart of Crypto Valley, bringing blockchain to the forefront of technology.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
